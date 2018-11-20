@@ -56,7 +56,7 @@
       <artifactId>mockito-junit-jupiter</artifactId>
       <version>${mockito.version}</version>
     </dependency>
-  </dependencies
+  </dependencies>
 
   <build>
     <plugins>
